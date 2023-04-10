@@ -11,6 +11,8 @@ gin-config
 holoviews
 jax
 jaxlib
+jupyterthemes
+jupyterlab
 librosa
 manim
 matplotlib
@@ -27,6 +29,7 @@ seaborn
 scikit-learn
 scipy
 tensorboard
+tensorflow
 tensorflow_datasets
 tensorflow_estimator
 tensorflow_probability
