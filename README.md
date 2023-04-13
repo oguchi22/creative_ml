@@ -28,7 +28,7 @@
 This repository contains the courses in machine learning applied to music and other creative mediums.
 This course is currently given at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Japan), and along the [ATIAM Masters](http://atiam.ircam.fr) at IRCAM, Sorbonne Paris (France). 
 The courses slides along with a set of interactive Jupyter Notebooks will be updated along the year to provide all the ML program.
-This course is proudly provided by the <a href="http://github.com/acids-ircam" target="_blank">ACIDS</a> team.
+This course is proudly provided by the <a href="http://github.com/acids-ircam" target="_blank">ACIDS</a> group, part of the [Analysis / Synthesis](http://anasynth.ircam.fr/home/english) team at IRCAM.
 This course can be followed entirely online through the set of [Google slides](http://slides.google.com) and [Colab](http://colab.google.com) notebooks links provided openly along each lesson.
 However, we do recommend to fork the entire environment and follow the interactive notebooks through Jupyter lab to develop your
 own coding environment.
@@ -38,7 +38,7 @@ own coding environment.
 
 #### Discord channel
 
-Join the [Discord channel](https://discord.gg/gpF82wnh) of this course to join
+Join the [Discord channel](https://discord.gg/meWN48rynW) of this course to join
 the community and share experiences and problems.
 
 
@@ -75,7 +75,7 @@ or _offline_ versions.
 
 - Online:
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRGy4H9JWjxK8d760O4pJT_7wfCett-rKjFV91d6jLkCHSMUntJjRA8a3r25M7_WrIDxggnjeXHdsi2/pub?start=false&loop=false&delayms=1000000&slide=id.p1) 
-[![Colab](https://img.shields.io/badge/Notebook-collab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1tAIsucXMqHJ0hVTYcuoUzBt69lSn86i0?usp=sharing) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1tAIsucXMqHJ0hVTYcuoUzBt69lSn86i0?usp=sharing) 
 - Offline: 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](00_introduction.pdf) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](00_setup.ipynb) 
@@ -92,7 +92,7 @@ Also note that some courses might contain multiple notebooks and extra informati
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vRGy4H9JWjxK8d760O4pJT_7wfCett-rKjFV91d6jLkCHSMUntJjRA8a3r25M7_WrIDxggnjeXHdsi2/pub?start=false&loop=false&delayms=1000000&slide=id.p1) 
 [![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](00_introduction.pdf) 
-[![Colab](https://img.shields.io/badge/Notebook-collab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1tAIsucXMqHJ0hVTYcuoUzBt69lSn86i0?usp=sharing) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1tAIsucXMqHJ0hVTYcuoUzBt69lSn86i0?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](00_setup.ipynb) 
 
 This course provides a brief history of the development of artificial intelligence and introduces the general concepts of machine learning 
@@ -105,9 +105,9 @@ and tutorials that will be covered and how to setup the overall environment.
 ### [01 - Machine learning](01_machine_learning.pdf)
 
 [![Slides](https://img.shields.io/badge/Slides-online-7DA416.svg?style=flat-square&logo=googledrive)](https://docs.google.com/presentation/d/e/2PACX-1vQiFd_QE7kW1OK2q4tFOtTtXXidXqrNNRDW6-sHp_KhqBa0j2dOvBTgyah-XULhDSSMwZIJvCy0SFQ8/pub?start=false&loop=false&delayms=10000) 
-[![Powerpoint](https://img.shields.io/badge/Slides-none-7D1616.svg?style=flat-square&logo=files)]() 
-[![Colab](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=googlecolab)]() 
-[![Notebook](https://img.shields.io/badge/Notebook-none-7D1616.svg?style=flat-square&logo=jupyter)](01a_machine_learning.ipynb) 
+[![Powerpoint](https://img.shields.io/badge/Slides-download-167DA4.svg?style=flat-square&logo=files)](01_machine_learning.pdf) 
+[![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1O38voJUpBlvynWJGt8m_gBUMq_LUeMO1?usp=sharing) 
+[![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](01a_machine_learning.ipynb) 
     
 This course introduces the formal notions required to understand machine learning along with classic problems of linear models 
 for regression and classification. We discuss the mathematical derivation for optimization and various problems of overfitting, cross-validation
